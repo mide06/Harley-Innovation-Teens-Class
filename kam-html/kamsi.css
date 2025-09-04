@@ -1,0 +1,8 @@
+body{
+  background-color: coral;
+}
+.first{
+    display: flex;
+    align-items: flex-start;
+    gap: 100px;
+}

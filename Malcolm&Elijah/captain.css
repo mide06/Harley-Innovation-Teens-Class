@@ -1,0 +1,46 @@
+.first {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+}
+body{
+    background-color:cornsilk;
+    border: 0.5rem solid coral;
+}
+video{
+    text-align: right;
+    justify-self: right;
+    margin-left: 5rem;
+}
+p{
+    font-size: 1rem;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-left: 8rem;
+}
+.second{
+    display: flex;
+    margin-top:3rem ;
+}
+.third{
+    display: flex;
+   gap: 50px;
+  
+}
+
+.third p {
+     padding-top: 10%;
+}
+b{
+    color: coral;
+    font-family: Arial, Helvetica, sans-serif;
+}
+i{
+    margin-left: 35rem;
+}
+b{
+    margin-left: 8rem;
+}
+audio{
+    margin-left: 35rem;
+    margin-bottom: 2rem;
+}

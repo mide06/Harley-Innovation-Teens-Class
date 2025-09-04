@@ -1,0 +1,37 @@
+body{
+ background-color:purple;
+}
+h4 {
+    color: blue;
+}
+
+button {
+    background-color: green;
+    color: yellow;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px;
+}
+
+.Emmanuel{
+    display: flex;
+    align-items: flex-start;
+    gap: 39px;
+    margin-top: 20px;
+}
+.left box, right box{
+    padding: 15px;
+    border-radius: 10px;
+    background-color: black;}
+.left-box{
+    width: 100%;
+}
+.right-box{
+    width: 60%;
+
+}
+.left-box img{
+    max-width: 100%;
+    border-radius: 10px;
+}

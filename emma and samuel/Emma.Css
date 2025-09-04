@@ -1,0 +1,27 @@
+
+.Emmannuel{
+    display: flex;
+    align-items: flex-start;
+    gap: 200px;
+    margin-top: 20px;
+    background-color: brown;
+}
+.left-box,.right-box{
+    padding: 15px;
+    border-radius: 10px;
+background-color: rgb(0, 255, 72);
+}
+.left-box{
+    width: 100%;
+}
+.right-box{
+    width: 100%;
+}
+.left box img{
+    max-width: 100%;
+    border-radius: 10px;
+}
+
+
+
+
